@@ -39,11 +39,11 @@ function Home() {
             </div>
             <br />
             <p className="text-sm md:text-md text-justify">
-              Lorem ipsum dolor, sit amet consectetur adipisicing elit.
-              Quisquam, recusandae consequatur. Accusamus sint libero eligendi
-              laborum fuga repudiandae? Asperiores tempore eos animi dolores
-              corrupti! Sint quos, mollitia architecto aliquam nesciunt, optio
-              cum delectus sit voluptatum aut ratione quaerat veniam aperiam!
+            Detail-oriented Computer Science graduate with a passion for software development, UI/UX design, 
+            and performance optimization. Proficient in React.js, JavaScript (ES6+), Tailwind CSS, and Fetch API 
+            integration, with experience in building scalable applications. Skilled in state management (Redux, 
+            Context API) and Agile development. Seeking a role to apply technical expertise and problem-solving 
+            skills to develop high-impact solutions.
             </p>
             <br />
 
